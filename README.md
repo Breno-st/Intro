@@ -21,4 +21,4 @@ A local *habitation* and a **name**.
 
 ### Contact
 
-The best way to contact me is e-mail on b_tiburcio@hotmail.com
+The best way to contact me is on b_tiburcio@hotmail.com
