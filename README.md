@@ -1,16 +1,12 @@
 # Breno Tiburcio
 
-### Geography
+### About
 
-I live in Rio de Janeiro, but I was born & raised in SP countryside. 
+I am a Data Science MSc student at Catholic University of Louvain. I am interested in pattern recognition, sequential  models in machine learning and intelligent systems.
 
 ### Quote
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
+Honor your **past**, imagine your **future**.
 
 ### Reading
 
